@@ -1,3 +1,6 @@
+/*
+ * This is a test class
+ */
 package pck;
 
 //Testing
