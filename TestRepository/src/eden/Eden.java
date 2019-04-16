@@ -11,7 +11,7 @@ public class Eden extends Game {
 	}
 
 	@Override
-	public void update() {
+	public void update(float tslf) {
 
 	}
 
