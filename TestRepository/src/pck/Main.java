@@ -5,5 +5,5 @@ package pck;
 
 //Testing
 public class Main {
-
+	int a = 1;
 }
