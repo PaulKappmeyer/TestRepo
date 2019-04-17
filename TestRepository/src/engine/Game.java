@@ -13,7 +13,9 @@ public abstract class Game {
 		gameWindow = new Window("Eden", 1280, 860);
 		
 		long lastFrame = System.currentTimeMillis();
+		
 		while(true){
+			
 			long thisFrame = System.currentTimeMillis();
 			float tslf = (float)(thisFrame - lastFrame) / 1000f;
 			lastFrame = thisFrame;
